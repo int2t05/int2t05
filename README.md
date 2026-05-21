@@ -1,14 +1,7 @@
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Tian%20Peikang&fontSize=32&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0891b2&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Tian%20Peikang&fontSize=32&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Tian%20Peikang&fontSize=32&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-</picture>
+# Hi there 👋 I'm Tian Peikang
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=AI+Application+Developer;Agent+Architecture+%7C+RAG+Systems;Backend+%7C+Full-Stack+Engineer;Open+Source+Contributor" />
-  </a>
+  <em>AI Application Developer · Agent Architecture · RAG Systems · Backend / Full-Stack Engineer</em>
 </p>
 
 ---
@@ -44,42 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=int2t05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=int2t05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
-  </a>
-</p>
-
-<p align="center">
-  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=int2t05&theme=tokyonight&hide_border=true&date_format=%5BY%20%5Dn%2Fj" />
-</p>
-
----
-
 ### 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/int2t05/ForgeAgent">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=int2t05&repo=ForgeAgent&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-  <a href="https://github.com/int2t05/RAG-ENGINE">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=int2t05&repo=RAG-ENGINE&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/int2t05/api-service">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=int2t05&repo=api-service&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-  <a href="https://github.com/int2t05/auto-trend">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=int2t05&repo=auto-trend&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-</p>
 
 | Project | Description |
 |---|---|
@@ -116,33 +74,3 @@ currently:
 - 💡 **Philosophy:** LLMs are powerful APIs that need engineering orchestration — not magic, just good systems design
 - 📫 **Reach me:** `2103859514@qq.com` · [GitHub](https://github.com/int2t05) · [docs.int2t.com](https://docs.int2t.com)
 - 🌐 **Website:** [int2t.com](https://int2t.com) · [auto-trend](https://int2t05.github.io/auto-trend)
-
----
-
-### 🛠️ This Week's Coding
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=int2t05&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=int2t05&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=int2t05&style=flat-square&color=3b82f6" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:3b82f6&height=120&section=footer&fontColor=ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:2563eb&height=120&section=footer&fontColor=ffffff" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:3b82f6&height=120&section=footer&fontColor=ffffff" />
-  </picture>
-</p>

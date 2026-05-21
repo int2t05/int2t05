@@ -43,8 +43,6 @@
 |---|---|
 | [**ForgeAgent**](https://github.com/int2t05/ForgeAgent) | Enterprise AI Agent — Plan-and-Execute architecture with Planner / Actor / Learner, LangGraph runtime, SSE monitoring, MCP tool support |
 | [**RAG Engine**](https://github.com/int2t05/RAG-ENGINE) | Full-stack RAG system — hybrid retrieval + reranking + RAGAS evaluation, 45%+ accuracy over naive RAG |
-| [**api-worker**](https://github.com/int2t05/api-service) | Cloudflare Workers AI unified API gateway — text / image / video multi-modal with SSE streaming |
-| [**waao-api**](https://github.com/int2t05/waao-api) | AI API relay — 40+ LLM provider aggregation, Docker-deployed, OpenAI-compatible API |
 | [**auto-trend**](https://github.com/int2t05/auto-trend) | GitHub Trending auto-analysis — AI-powered summaries of trending repositories |
 
 ---
@@ -73,4 +71,4 @@ currently:
 - 🌱 **Learning:** Go microservices (Kratos), agent evaluation methodology, Vibe Coding workflows
 - 💡 **Philosophy:** LLMs are powerful APIs that need engineering orchestration — not magic, just good systems design
 - 📫 **Reach me:** `2103859514@qq.com` · [GitHub](https://github.com/int2t05) · [docs.int2t.com](https://docs.int2t.com)
-- 🌐 **Website:** [int2t.com](https://int2t.com) · [auto-trend](https://int2t05.github.io/auto-trend)
+- 🌐 **Website:** [int2t.com](https://blog.int2t.com) · [auto-trend](https://int2t05.github.io/auto-trend)

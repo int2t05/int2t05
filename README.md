@@ -61,25 +61,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=int2t05&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-  </a>
-</p>
-
----
-
-### 🌌 3D Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/int2t05/int2t05/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/int2t05/int2t05/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
-
----
-
 ### 🔥 Featured Projects
 
 <p align="center">

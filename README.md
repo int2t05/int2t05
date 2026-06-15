@@ -2,24 +2,17 @@
 <p align="center">
   <em>AI Application Developer · Agent Architecture · RAG Systems · Backend / Full-Stack Engineer</em>
 </p>
-
 ---
-
 ## 🧰 Tech Stack
 ### Languages & Frameworks
 Python · Go · TypeScript · React · Next.js · Vue · Tailwind CSS · Vite · FastAPI · Node.js · Express
-
 ### DevOps & Databases
 Docker · Nginx · Cloudflare · GitHub Actions · Linux · MySQL · PostgreSQL · Redis · Elasticsearch · SQLite · Prisma
-
 ### Tools
 Git · Obsidian · Markdown · Bash · pnpm · Vercel · VS Code
-
 ### 🤖 AI & LLM
 LangChain · LangGraph · RAG Engine · Multi-Agent · MCP Protocol · OpenAI · DeepSeek · Qwen · ChromaDB · Milvus · CrewAI · Pydantic AI
-
 ---
-
 ## ✨ About Me
 - 🎓 B.S. Computer Science @ South China University of Technology (2023–2027)
 - 📍 Guangzhou, China

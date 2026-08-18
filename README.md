@@ -39,7 +39,4 @@
 
 <div align="center">
 
-
-<sub>⭐ From [int2t05](https://github.com/int2t05) with 💙</sub>
-
 </div>

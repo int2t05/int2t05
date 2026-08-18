@@ -36,34 +36,6 @@
 - 🛠️ Building: AI 运维数字员工、Obsidian 知识库 Agent、Claude Code 工程技能包
 - 🌐 Blog: [blog.int2t.com](https://blog.int2t.com)
 
-<br>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=int2t05&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1F3A5F&icon_color=4A90D9&text_color=333333" alt="stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=int2t05&theme=default&hide_border=true&background=FFFFFF&ring=4A90D9&fire=FFB562&currStreakLabel=1F3A5F&sideLabels=1F3A5F&currStreakNum=1F3A5F&sideNums=1F3A5F&dates=333333" alt="streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=int2t05&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1F3A5F&text_color=333333" alt="top langs" width="48%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🔥 Top Repositories
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=int2t05&repo=OpsMind&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1F3A5F&text_color=333333&icon_color=4A90D9" alt="OpsMind" width="46%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=int2t05&repo=rag-engine&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1F3A5F&text_color=333333&icon_color=4A90D9" alt="rag-engine" width="46%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 ### 🛠️ Tech Stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
@@ -71,7 +43,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="ts" />
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="c" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="cpp" />
-<br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="fastapi" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="nextjs" />
 <img src="https://img.shields.io/badge/LangChain-1C3C44?style=flat-square&logo=langchain&logoColor=white" alt="langchain" />
@@ -79,34 +50,12 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="postgres" />
 <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="obsidian" />
 
-</div>
-
-<br>
-
-<div align="center">
-
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [个人 skill 包诚实自评：五类可用性短板](https://blog.int2t.com/2026/08/15/2026-08-16-skill-pack-honest-review/) · 2026-08-15
-- [AI 周报：开源模型一周三连发，Qwen 2.4T 领跑，算力与隐私争议同步升温](https://blog.int2t.com/2026/08/15/2026-08-16-weekly-ai-news/) · 2026-08-15
-- [GitHub 趋势周报：AI Agent 从单打独斗走向角色库、审计与本地化](https://blog.int2t.com/2026/08/15/2026-08-16-weekly-github-trending/) · 2026-08-15
-- [多 agent 工作流卡住怎么办：给 skill 加一层只读 trace](https://blog.int2t.com/2026/08/08/2026-08-09-trace-observability-for-multi-agent-workflow/) · 2026-08-08
-- [AI 周报：npm 遭史诗级供应链攻击，AI 模型意外攻击真实网站，OpenAI Astra 或触发「关键」网络威胁](https://blog.int2t.com/2026/08/08/2026-08-09-weekly-ai-news/) · 2026-08-08<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
-</div>
-
-<br>
-
-<div align="center">
-
-### 🐍 Contributions
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=int2t05&theme=default&hide_border=true&bg_color=FFFFFF&color=4A90D9&line=4A90D9&point=1F3A5F" alt="activity graph" width="95%" />
-
-</div>
-
-<br>
+---
 
 <div align="center">
 

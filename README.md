@@ -87,12 +87,7 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This section is auto-updated by GitHub Action (see .github/workflows/blog.yml). Feed: https://blog.int2t.com/atom.xml -->
-<a href="https://blog.int2t.com">
-  <img src="https://img.shields.io/badge/read%20more-blog.int2t.com-1F3A5F?style=flat-square" alt="blog" />
-</a>
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [个人 skill 包诚实自评：五类可用性短板](https://blog.int2t.com/2026/08/15/2026-08-16-skill-pack-honest-review/) · 2026-00-15- [AI 周报：开源模型一周三连发，Qwen 2.4T 领跑，算力与隐私争议同步升温](https://blog.int2t.com/2026/08/15/2026-08-16-weekly-ai-news/) · 2026-00-15- [GitHub 趋势周报：AI Agent 从单打独斗走向角色库、审计与本地化](https://blog.int2t.com/2026/08/15/2026-08-16-weekly-github-trending/) · 2026-00-15- [多 agent 工作流卡住怎么办：给 skill 加一层只读 trace](https://blog.int2t.com/2026/08/08/2026-08-09-trace-observability-for-multi-agent-workflow/) · 2026-00-08- [AI 周报：npm 遭史诗级供应链攻击，AI 模型意外攻击真实网站，OpenAI Astra 或触发「关键」网络威胁](https://blog.int2t.com/2026/08/08/2026-08-09-weekly-ai-news/) · 2026-00-08<!-- BLOG-POST-LIST:END -->
 
 </div>
 

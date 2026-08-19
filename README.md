@@ -32,7 +32,7 @@
 - [个人 skill 包诚实自评：五类可用性短板](https://blog.int2t.com/2026/08/15/2026-08-16-skill-pack-honest-review/) · 2026-08-15
 - [AI 周报：开源模型一周三连发，Qwen 2.4T 领跑，算力与隐私争议同步升温](https://blog.int2t.com/2026/08/15/2026-08-16-weekly-ai-news/) · 2026-08-15
 - [GitHub 趋势周报：AI Agent 从单打独斗走向角色库、审计与本地化](https://blog.int2t.com/2026/08/15/2026-08-16-weekly-github-trending/) · 2026-08-15
-- [GitHub 趋势周报：AI Agent 走向工程化，记忆、技能与可用性生态爆发](https://blog.int2t.com/2026/08/08/2026-08-09-weekly-github-trending/) · 2026-08-08
+- [AI 周报：npm 遭史诗级供应链攻击，AI 模型意外攻击真实网站，OpenAI Astra 或触发「关键」网络威胁](https://blog.int2t.com/2026/08/08/2026-08-09-weekly-ai-news/) · 2026-08-08
 - [多 agent 工作流卡住怎么办：给 skill 加一层只读 trace](https://blog.int2t.com/2026/08/08/2026-08-09-trace-observability-for-multi-agent-workflow/) · 2026-08-08<!-- BLOG-POST-LIST:END -->
 
 ---

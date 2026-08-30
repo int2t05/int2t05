@@ -29,11 +29,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 周报：英伟达收购 Hugging Face，开源模型混战与安全丑闻集中爆发](https://blog.int2t.com/2026/08/29/2026-08-30-weekly-ai-news/) · 2026-08-29
+- [GitHub 趋势周报：AI 编程助手从玩具变工具，周边生态集中爆发](https://blog.int2t.com/2026/08/29/2026-08-30-weekly-github-trending/) · 2026-08-29
 - [AI 周报：Stripe 收购 OpenRouter、Anthropic 营收激增，模型层商品化加速](https://blog.int2t.com/2026/08/22/2026-08-23-weekly-ai-news/) · 2026-08-22
 - [GitHub 趋势周报：AI 编程 Agent 从「能写」到「敢用」，工程化工具链集中爆发](https://blog.int2t.com/2026/08/22/2026-08-23-weekly-github-trending/) · 2026-08-22
-- [个人 skill 包诚实自评：五类可用性短板](https://blog.int2t.com/2026/08/15/2026-08-16-skill-pack-honest-review/) · 2026-08-15
-- [AI 周报：开源模型一周三连发，Qwen 2.4T 领跑，算力与隐私争议同步升温](https://blog.int2t.com/2026/08/15/2026-08-16-weekly-ai-news/) · 2026-08-15
-- [GitHub 趋势周报：AI Agent 从单打独斗走向角色库、审计与本地化](https://blog.int2t.com/2026/08/15/2026-08-16-weekly-github-trending/) · 2026-08-15<!-- BLOG-POST-LIST:END -->
+- [个人 skill 包诚实自评：五类可用性短板](https://blog.int2t.com/2026/08/15/2026-08-16-skill-pack-honest-review/) · 2026-08-15<!-- BLOG-POST-LIST:END -->
 
 ---
 

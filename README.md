@@ -29,11 +29,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 周报：OpenAI 声称解出千禧年难题，数学界集体不满](https://blog.int2t.com/2026/09/12/2026-09-13-weekly-ai-news/) · 2026-09-12
+- [GitHub 趋势周报：Agent 技能包爆发，AI 从聊天走向干活](https://blog.int2t.com/2026/09/12/2026-09-13-weekly-github-trending/) · 2026-09-12
 - [AI 周报：智能体失控？Anthropic 用 Lean 证明费马大定理，多款新模型同周发布](https://blog.int2t.com/2026/09/05/2026-09-06-weekly-ai-news/) · 2026-09-05
 - [GitHub 趋势周报：AI 编程代理的配套生态集中爆发，技能包与省钱工具最火](https://blog.int2t.com/2026/09/05/2026-09-06-weekly-github-trending/) · 2026-09-05
-- [逐页 QA 硬约束：让校验不可跳过，质量才有保障](https://blog.int2t.com/2026/08/29/2026-08-30-per-page-qa-hard-constraint/) · 2026-08-29
-- [AI 周报：英伟达收购 Hugging Face，开源模型混战与安全丑闻集中爆发](https://blog.int2t.com/2026/08/29/2026-08-30-weekly-ai-news/) · 2026-08-29
-- [GitHub 趋势周报：AI 编程助手从玩具变工具，周边生态集中爆发](https://blog.int2t.com/2026/08/29/2026-08-30-weekly-github-trending/) · 2026-08-29<!-- BLOG-POST-LIST:END -->
+- [逐页 QA 硬约束：让校验不可跳过，质量才有保障](https://blog.int2t.com/2026/08/29/2026-08-30-per-page-qa-hard-constraint/) · 2026-08-29<!-- BLOG-POST-LIST:END -->
 
 ---
 

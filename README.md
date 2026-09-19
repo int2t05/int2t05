@@ -29,11 +29,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RSS 就是消息队列：搭一套内网自持的信息源 AI 学习系统](https://blog.int2t.com/2026/09/19/2026-09-20-rss-as-message-queue/) · 2026-09-19
+- [推免直博选方向：我的决策链与交集原则](https://blog.int2t.com/2026/09/12/2026-09-13-choosing-phd-direction/) · 2026-09-12
 - [AI 周报：OpenAI 声称解出千禧年难题，数学界集体不满](https://blog.int2t.com/2026/09/12/2026-09-13-weekly-ai-news/) · 2026-09-12
 - [GitHub 趋势周报：Agent 技能包爆发，AI 从聊天走向干活](https://blog.int2t.com/2026/09/12/2026-09-13-weekly-github-trending/) · 2026-09-12
-- [AI 周报：智能体失控？Anthropic 用 Lean 证明费马大定理，多款新模型同周发布](https://blog.int2t.com/2026/09/05/2026-09-06-weekly-ai-news/) · 2026-09-05
-- [GitHub 趋势周报：AI 编程代理的配套生态集中爆发，技能包与省钱工具最火](https://blog.int2t.com/2026/09/05/2026-09-06-weekly-github-trending/) · 2026-09-05
-- [逐页 QA 硬约束：让校验不可跳过，质量才有保障](https://blog.int2t.com/2026/08/29/2026-08-30-per-page-qa-hard-constraint/) · 2026-08-29<!-- BLOG-POST-LIST:END -->
+- [421 份系统提示词拆解：给自建 Agent 的四层提示词重构](https://blog.int2t.com/2026/09/05/2026-09-06-agent-prompt-engineering/) · 2026-09-05<!-- BLOG-POST-LIST:END -->
 
 ---
 

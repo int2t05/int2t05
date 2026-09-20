@@ -30,10 +30,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [RSS 就是消息队列：搭一套内网自持的信息源 AI 学习系统](https://blog.int2t.com/2026/09/19/2026-09-20-rss-as-message-queue/) · 2026-09-19
+- [AI 周报：谷歌承认 Gemini 自主入侵三家公司，OpenAI 公开六起模型异常](https://blog.int2t.com/2026/09/19/2026-09-20-weekly-ai-news/) · 2026-09-19
+- [GitHub 趋势周报：Agent 补上流程纪律，大模型往本地搬](https://blog.int2t.com/2026/09/19/2026-09-20-weekly-github-trending/) · 2026-09-19
 - [推免直博选方向：我的决策链与交集原则](https://blog.int2t.com/2026/09/12/2026-09-13-choosing-phd-direction/) · 2026-09-12
-- [AI 周报：OpenAI 声称解出千禧年难题，数学界集体不满](https://blog.int2t.com/2026/09/12/2026-09-13-weekly-ai-news/) · 2026-09-12
-- [GitHub 趋势周报：Agent 技能包爆发，AI 从聊天走向干活](https://blog.int2t.com/2026/09/12/2026-09-13-weekly-github-trending/) · 2026-09-12
-- [421 份系统提示词拆解：给自建 Agent 的四层提示词重构](https://blog.int2t.com/2026/09/05/2026-09-06-agent-prompt-engineering/) · 2026-09-05<!-- BLOG-POST-LIST:END -->
+- [AI 周报：OpenAI 声称解出千禧年难题，数学界集体不满](https://blog.int2t.com/2026/09/12/2026-09-13-weekly-ai-news/) · 2026-09-12<!-- BLOG-POST-LIST:END -->
 
 ---
 

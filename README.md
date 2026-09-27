@@ -29,11 +29,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 周报：GPT-6 与 Opus 5.5 同日降价，AI 幻觉差点让美军登船](https://blog.int2t.com/2026/09/26/2026-09-27-weekly-ai-news/) · 2026-09-26
+- [GitHub 趋势周报：Agent 基建周，记忆、编排、技能包集体补课](https://blog.int2t.com/2026/09/26/2026-09-27-weekly-github-trending/) · 2026-09-26
 - [RSS 就是消息队列：搭一套内网自持的信息源 AI 学习系统](https://blog.int2t.com/2026/09/19/2026-09-20-rss-as-message-queue/) · 2026-09-19
 - [AI 周报：谷歌承认 Gemini 自主入侵三家公司，OpenAI 公开六起模型异常](https://blog.int2t.com/2026/09/19/2026-09-20-weekly-ai-news/) · 2026-09-19
-- [GitHub 趋势周报：Agent 补上流程纪律，大模型往本地搬](https://blog.int2t.com/2026/09/19/2026-09-20-weekly-github-trending/) · 2026-09-19
-- [推免直博选方向：我的决策链与交集原则](https://blog.int2t.com/2026/09/12/2026-09-13-choosing-phd-direction/) · 2026-09-12
-- [AI 周报：OpenAI 声称解出千禧年难题，数学界集体不满](https://blog.int2t.com/2026/09/12/2026-09-13-weekly-ai-news/) · 2026-09-12<!-- BLOG-POST-LIST:END -->
+- [GitHub 趋势周报：Agent 补上流程纪律，大模型往本地搬](https://blog.int2t.com/2026/09/19/2026-09-20-weekly-github-trending/) · 2026-09-19<!-- BLOG-POST-LIST:END -->
 
 ---
 

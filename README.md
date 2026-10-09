@@ -29,11 +29,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 产出文档必须过人工审计](https://blog.int2t.com/2026/10/10/2026-10-11-human-audit-for-ai-docs/) · 2026-10-10
+- [ITX 小主机组装与 Windows 迁移实录](https://blog.int2t.com/2026/10/03/2026-10-04-itx-build-windows-migration/) · 2026-10-03
 - [AI 周报：24GW 算力、五分之一的价格，和智能体的安全账](https://blog.int2t.com/2026/10/03/2026-10-04-weekly-ai-news/) · 2026-10-03
 - [GitHub 趋势周报：Agent 不再比谁聪明，开始比谁被管得好](https://blog.int2t.com/2026/10/03/2026-10-04-weekly-github-trending/) · 2026-10-03
-- [AI 周报：GPT-6 与 Opus 5.5 同日降价，AI 幻觉差点让美军登船](https://blog.int2t.com/2026/09/26/2026-09-27-weekly-ai-news/) · 2026-09-26
-- [GitHub 趋势周报：Agent 基建周，记忆、编排、技能包集体补课](https://blog.int2t.com/2026/09/26/2026-09-27-weekly-github-trending/) · 2026-09-26
-- [RSS 就是消息队列：搭一套内网自持的信息源 AI 学习系统](https://blog.int2t.com/2026/09/19/2026-09-20-rss-as-message-queue/) · 2026-09-19<!-- BLOG-POST-LIST:END -->
+- [订阅 GPT Plus 的三道坎：支付、地区与选型](https://blog.int2t.com/2026/09/26/2026-09-27-gpt-plus-subscription/) · 2026-09-26<!-- BLOG-POST-LIST:END -->
 
 ---
 

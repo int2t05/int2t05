@@ -30,10 +30,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AI 产出文档必须过人工审计](https://blog.int2t.com/2026/10/10/2026-10-11-human-audit-for-ai-docs/) · 2026-10-10
+- [AI 周报：1 万亿参数大模型扎堆开源，AI 智能体接连闯祸](https://blog.int2t.com/2026/10/10/2026-10-11-weekly-ai-news/) · 2026-10-10
+- [GitHub 趋势周报：AI Agent 从会聊天到能干活，技能包和 MCP 成了新战场](https://blog.int2t.com/2026/10/10/2026-10-11-weekly-github-trending/) · 2026-10-10
 - [ITX 小主机组装与 Windows 迁移实录](https://blog.int2t.com/2026/10/03/2026-10-04-itx-build-windows-migration/) · 2026-10-03
-- [AI 周报：24GW 算力、五分之一的价格，和智能体的安全账](https://blog.int2t.com/2026/10/03/2026-10-04-weekly-ai-news/) · 2026-10-03
-- [GitHub 趋势周报：Agent 不再比谁聪明，开始比谁被管得好](https://blog.int2t.com/2026/10/03/2026-10-04-weekly-github-trending/) · 2026-10-03
-- [订阅 GPT Plus 的三道坎：支付、地区与选型](https://blog.int2t.com/2026/09/26/2026-09-27-gpt-plus-subscription/) · 2026-09-26<!-- BLOG-POST-LIST:END -->
+- [AI 周报：24GW 算力、五分之一的价格，和智能体的安全账](https://blog.int2t.com/2026/10/03/2026-10-04-weekly-ai-news/) · 2026-10-03<!-- BLOG-POST-LIST:END -->
 
 ---
 

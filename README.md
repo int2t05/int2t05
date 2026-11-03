@@ -29,11 +29,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI 周报：OpenAI 宣称证伪 ETH，同一周四个 9 分级漏洞连爆](https://blog.int2t.com/2026/10/31/2026-11-01-weekly-ai-news/) · 2026-10-31
+- [AI 排的北京行程，现实校准了六天](https://blog.int2t.com/2026/10/31/2026-11-01-beijing-trip-plan-vs-reality/) · 2026-10-31
 - [GitHub 趋势周报：Agent 不缺模型，缺技能包、记忆和验收规则](https://blog.int2t.com/2026/10/31/2026-11-01-weekly-github-trending/) · 2026-10-31
-- [AI 周报：证书私钥只有 256 种可能，推理框架集体开源](https://blog.int2t.com/2026/10/24/2026-10-25-weekly-ai-news/) · 2026-10-24
-- [GitHub 趋势周报：Agent 不比谁聪明了，开始比沙箱、审计和谁更省钱](https://blog.int2t.com/2026/10/24/2026-10-25-weekly-github-trending/) · 2026-10-24
-- [AI 周报：LLM 补丁进 Linux 内核，模型与安全事件同时加速](https://blog.int2t.com/2026/10/17/2026-10-18-weekly-ai-news/) · 2026-10-17<!-- BLOG-POST-LIST:END -->
+- [AI 周报：OpenAI 宣称证伪 ETH，同一周四个 9 分级漏洞连爆](https://blog.int2t.com/2026/10/31/2026-11-01-weekly-ai-news/) · 2026-10-31
+- [2026 年 10 月月报：人工关口的三种形态](https://blog.int2t.com/2026/10/30/2026-10-31-monthly-review/) · 2026-10-30
+- [三账户分配：先把钱分成三份再花](https://blog.int2t.com/2026/10/24/2026-10-25-three-account-money-split/) · 2026-10-24<!-- BLOG-POST-LIST:END -->
 
 ---
 

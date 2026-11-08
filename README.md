@@ -29,11 +29,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 周报：智能体挤爆 Git 仓库，中国大模型去欧洲租 GPU](https://blog.int2t.com/2026/11/07/2026-11-08-weekly-ai-news/) · 2026-11-07
+- [GitHub 趋势周报：Agent 技能包、记忆与 MCP，本周热门全在给 AI 写说明书](https://blog.int2t.com/2026/11/07/2026-11-08-weekly-github-trending/) · 2026-11-07
 - [AI 排的北京行程，现实校准了六天](https://blog.int2t.com/2026/10/31/2026-11-01-beijing-trip-plan-vs-reality/) · 2026-10-31
 - [GitHub 趋势周报：Agent 不缺模型，缺技能包、记忆和验收规则](https://blog.int2t.com/2026/10/31/2026-11-01-weekly-github-trending/) · 2026-10-31
-- [AI 周报：OpenAI 宣称证伪 ETH，同一周四个 9 分级漏洞连爆](https://blog.int2t.com/2026/10/31/2026-11-01-weekly-ai-news/) · 2026-10-31
-- [2026 年 10 月月报：人工关口的三种形态](https://blog.int2t.com/2026/10/30/2026-10-31-monthly-review/) · 2026-10-30
-- [三账户分配：先把钱分成三份再花](https://blog.int2t.com/2026/10/24/2026-10-25-three-account-money-split/) · 2026-10-24<!-- BLOG-POST-LIST:END -->
+- [AI 周报：OpenAI 宣称证伪 ETH，同一周四个 9 分级漏洞连爆](https://blog.int2t.com/2026/10/31/2026-11-01-weekly-ai-news/) · 2026-10-31<!-- BLOG-POST-LIST:END -->
 
 ---
 

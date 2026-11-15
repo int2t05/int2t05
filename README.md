@@ -29,11 +29,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DMAID：从数据到决策的闭环，模型和算法不是一回事](https://blog.int2t.com/2026/11/14/2026-11-15-dmaid-data-to-decision-loop/) · 2026-11-14
 - [AI 周报：黄仁勋面临罢免、Anthropic 冲刺 IPO，AI 写的应用在漏数据](https://blog.int2t.com/2026/11/14/2026-11-15-weekly-ai-news/) · 2026-11-14
 - [GitHub 趋势周报：Agent 开始补工程化短板，技能包、审批门、协议层一起冒头](https://blog.int2t.com/2026/11/14/2026-11-15-weekly-github-trending/) · 2026-11-14
-- [AI 周报：智能体挤爆 Git 仓库，中国大模型去欧洲租 GPU](https://blog.int2t.com/2026/11/07/2026-11-08-weekly-ai-news/) · 2026-11-07
-- [GitHub 趋势周报：Agent 技能包、记忆与 MCP，本周热门全在给 AI 写说明书](https://blog.int2t.com/2026/11/07/2026-11-08-weekly-github-trending/) · 2026-11-07
-- [AI 排的北京行程，现实校准了六天](https://blog.int2t.com/2026/10/31/2026-11-01-beijing-trip-plan-vs-reality/) · 2026-10-31<!-- BLOG-POST-LIST:END -->
+- [把 AI 当科研导师：出题、验收、调整的训练闭环](https://blog.int2t.com/2026/11/07/2026-11-08-ai-research-mentor-loop/) · 2026-11-07
+- [AI 周报：智能体挤爆 Git 仓库，中国大模型去欧洲租 GPU](https://blog.int2t.com/2026/11/07/2026-11-08-weekly-ai-news/) · 2026-11-07<!-- BLOG-POST-LIST:END -->
 
 ---
 

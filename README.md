@@ -29,11 +29,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub 趋势周报：Agent 技能包成了新的 npm，接口和护栏一起补齐](https://blog.int2t.com/2026/11/21/2026-11-22-weekly-github-trending/) · 2026-11-21
+- [AI 周报：万亿参数开源模型、五个高危漏洞和收紧的芯片管制](https://blog.int2t.com/2026/11/21/2026-11-22-weekly-ai-news/) · 2026-11-21
 - [DMAID：从数据到决策的闭环，模型和算法不是一回事](https://blog.int2t.com/2026/11/14/2026-11-15-dmaid-data-to-decision-loop/) · 2026-11-14
 - [AI 周报：黄仁勋面临罢免、Anthropic 冲刺 IPO，AI 写的应用在漏数据](https://blog.int2t.com/2026/11/14/2026-11-15-weekly-ai-news/) · 2026-11-14
-- [GitHub 趋势周报：Agent 开始补工程化短板，技能包、审批门、协议层一起冒头](https://blog.int2t.com/2026/11/14/2026-11-15-weekly-github-trending/) · 2026-11-14
-- [把 AI 当科研导师：出题、验收、调整的训练闭环](https://blog.int2t.com/2026/11/07/2026-11-08-ai-research-mentor-loop/) · 2026-11-07
-- [AI 周报：智能体挤爆 Git 仓库，中国大模型去欧洲租 GPU](https://blog.int2t.com/2026/11/07/2026-11-08-weekly-ai-news/) · 2026-11-07<!-- BLOG-POST-LIST:END -->
+- [GitHub 趋势周报：Agent 开始补工程化短板，技能包、审批门、协议层一起冒头](https://blog.int2t.com/2026/11/14/2026-11-15-weekly-github-trending/) · 2026-11-14<!-- BLOG-POST-LIST:END -->
 
 ---
 
